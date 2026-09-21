@@ -1,5 +1,4 @@
 """
-Veda Technology Internship - Task 5
 Project: Number Statistics
 
 This program:
